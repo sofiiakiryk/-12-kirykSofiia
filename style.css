@@ -1,0 +1,16 @@
+.mi { display: block;
+width: 25%;
+text-decoration: none;
+background-color: rgb(249, 122, 122);
+padding-top: 15px;
+padding-bottom: 15px;
+text-align: center;
+color: white;
+}
+.mi:hover { color: rgb(238, 174, 181);
+background-color: rgb(206, 70, 97);
+transition: 0,3s;}
+.menu { display: flex;
+    font-family: "Josefin Sans";
+}
+* { margin: 0;}
